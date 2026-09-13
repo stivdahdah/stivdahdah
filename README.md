@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @stivdahdah
-- 👀 I’m interested in Automation, DevOps and SysAdmin
-- 🌱 I’m currently developing Ansible playbooks and roles
-- 💞️ I’m looking to collaborate on Ansible and Terraform project
+## Hi, I’m Steven (@stivdahdah) 👋
 
-<!---
-stivdahdah/stivdahdah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build and connect systems for intelligent transportation, smart cities, and IT operations.
+
+- 🚦 Working on traffic management, connected infrastructure, and smart-city solutions.
+- ⚙️ Automating infrastructure and everyday operations.
+- 🔗 Integrating field devices, applications, and data across transportation and IT systems.
+- 📊 Building dashboards and monitoring tools to improve visibility and simplify operations.
+- 🤝 Open to collaborating on ITS, smart-city applications, infrastructure automation, and open-source tools.
