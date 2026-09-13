@@ -1,4 +1,4 @@
-## Hi, I’m Steven (@stivdahdah) 👋
+## Hi, I’m Steven 👋 
 
 I build and connect systems for intelligent transportation, smart cities, and IT operations.
 
